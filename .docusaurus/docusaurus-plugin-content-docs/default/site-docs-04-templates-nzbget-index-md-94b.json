@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/nzbget/index",
+  "id": "templates/nzbget/index",
+  "title": "Nzbget",
+  "description": "How to install Nzbget on Easypanel? 1-Click installation template for Nzbget on Easypanel",
+  "source": "@site/docs/04-templates/nzbget/index.md",
+  "sourceDirName": "04-templates/nzbget",
+  "slug": "/templates/nzbget/",
+  "permalink": "/docs/templates/nzbget/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/nzbget/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Nzbget",
+    "title": "Nzbget",
+    "description": "How to install Nzbget on Easypanel? 1-Click installation template for Nzbget on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Ntfy",
+    "permalink": "/docs/templates/ntfy/"
+  },
+  "next": {
+    "title": "Odoo",
+    "permalink": "/docs/templates/odoo/"
+  }
+}

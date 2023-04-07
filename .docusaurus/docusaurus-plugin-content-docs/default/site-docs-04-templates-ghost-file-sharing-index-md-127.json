@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/ghost-file-sharing/index",
+  "id": "templates/ghost-file-sharing/index",
+  "title": "Ghost File Sharing",
+  "description": "How to install Ghost File Sharing on Easypanel? 1-Click installation template for Ghost File Sharing on Easypanel",
+  "source": "@site/docs/04-templates/ghost-file-sharing/index.md",
+  "sourceDirName": "04-templates/ghost-file-sharing",
+  "slug": "/templates/ghost-file-sharing/",
+  "permalink": "/docs/templates/ghost-file-sharing/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/ghost-file-sharing/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Ghost File Sharing",
+    "title": "Ghost File Sharing",
+    "description": "How to install Ghost File Sharing on Easypanel? 1-Click installation template for Ghost File Sharing on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Ghost",
+    "permalink": "/docs/templates/ghost/"
+  },
+  "next": {
+    "title": "Gitea",
+    "permalink": "/docs/templates/gitea/"
+  }
+}

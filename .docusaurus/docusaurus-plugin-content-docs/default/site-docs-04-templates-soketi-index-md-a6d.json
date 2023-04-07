@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/soketi/index",
+  "id": "templates/soketi/index",
+  "title": "Soketi",
+  "description": "How to install Soketi on Easypanel? 1-Click installation template for Soketi on Easypanel",
+  "source": "@site/docs/04-templates/soketi/index.md",
+  "sourceDirName": "04-templates/soketi",
+  "slug": "/templates/soketi/",
+  "permalink": "/docs/templates/soketi/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/soketi/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Soketi",
+    "title": "Soketi",
+    "description": "How to install Soketi on Easypanel? 1-Click installation template for Soketi on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "SimpleTorrent",
+    "permalink": "/docs/templates/simpletorrent/"
+  },
+  "next": {
+    "title": "Sonarr",
+    "permalink": "/docs/templates/sonarr/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/rallly/index",
+  "id": "templates/rallly/index",
+  "title": "Rallly",
+  "description": "How to install Rallly on Easypanel? 1-Click installation template for Rallly on Easypanel",
+  "source": "@site/docs/04-templates/rallly/index.md",
+  "sourceDirName": "04-templates/rallly",
+  "slug": "/templates/rallly/",
+  "permalink": "/docs/templates/rallly/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/rallly/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Rallly",
+    "title": "Rallly",
+    "description": "How to install Rallly on Easypanel? 1-Click installation template for Rallly on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Radarr",
+    "permalink": "/docs/templates/radarr/"
+  },
+  "next": {
+    "title": "Registry",
+    "permalink": "/docs/templates/registry/"
+  }
+}

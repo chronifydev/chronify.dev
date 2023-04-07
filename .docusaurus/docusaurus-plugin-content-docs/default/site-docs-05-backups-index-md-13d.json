@@ -1,0 +1,20 @@
+{
+  "unversionedId": "backups/index",
+  "id": "backups/index",
+  "title": "Introduction",
+  "description": "Easypanel now supports database backups!",
+  "source": "@site/docs/05-backups/index.md",
+  "sourceDirName": "05-backups",
+  "slug": "/backups/",
+  "permalink": "/docs/backups/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/05-backups/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Zipline",
+    "permalink": "/docs/templates/zipline/"
+  }
+}

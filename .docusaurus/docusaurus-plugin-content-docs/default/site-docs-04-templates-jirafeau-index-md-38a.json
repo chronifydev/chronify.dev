@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/jirafeau/index",
+  "id": "templates/jirafeau/index",
+  "title": "Jirafeau",
+  "description": "How to install Jirafeau on Easypanel? 1-Click installation template for Jirafeau on Easypanel",
+  "source": "@site/docs/04-templates/jirafeau/index.md",
+  "sourceDirName": "04-templates/jirafeau",
+  "slug": "/templates/jirafeau/",
+  "permalink": "/docs/templates/jirafeau/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/jirafeau/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Jirafeau",
+    "title": "Jirafeau",
+    "description": "How to install Jirafeau on Easypanel? 1-Click installation template for Jirafeau on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Jellyseerr",
+    "permalink": "/docs/templates/jellyseerr/"
+  },
+  "next": {
+    "title": "Kanboard",
+    "permalink": "/docs/templates/kanboard/"
+  }
+}

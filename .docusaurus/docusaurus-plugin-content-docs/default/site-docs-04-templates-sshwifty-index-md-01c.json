@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/sshwifty/index",
+  "id": "templates/sshwifty/index",
+  "title": "Sshwifty",
+  "description": "How to install Sshwifty on Easypanel? 1-Click installation template for Sshwifty on Easypanel",
+  "source": "@site/docs/04-templates/sshwifty/index.md",
+  "sourceDirName": "04-templates/sshwifty",
+  "slug": "/templates/sshwifty/",
+  "permalink": "/docs/templates/sshwifty/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/sshwifty/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Sshwifty",
+    "title": "Sshwifty",
+    "description": "How to install Sshwifty on Easypanel? 1-Click installation template for Sshwifty on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Sonarr",
+    "permalink": "/docs/templates/sonarr/"
+  },
+  "next": {
+    "title": "Statping-ng",
+    "permalink": "/docs/templates/statping-ng/"
+  }
+}

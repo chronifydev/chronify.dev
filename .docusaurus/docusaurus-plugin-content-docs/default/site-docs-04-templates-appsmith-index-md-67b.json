@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/appsmith/index",
+  "id": "templates/appsmith/index",
+  "title": "Appsmith",
+  "description": "How to install Appsmith on Easypanel? 1-Click installation template for Appsmith on Easypanel",
+  "source": "@site/docs/04-templates/appsmith/index.md",
+  "sourceDirName": "04-templates/appsmith",
+  "slug": "/templates/appsmith/",
+  "permalink": "/docs/templates/appsmith/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/appsmith/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Appsmith",
+    "title": "Appsmith",
+    "description": "How to install Appsmith on Easypanel? 1-Click installation template for Appsmith on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Answer",
+    "permalink": "/docs/templates/answer/"
+  },
+  "next": {
+    "title": "Authorizer",
+    "permalink": "/docs/templates/authorizer/"
+  }
+}

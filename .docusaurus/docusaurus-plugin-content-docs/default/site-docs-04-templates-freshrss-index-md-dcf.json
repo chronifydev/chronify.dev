@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/freshrss/index",
+  "id": "templates/freshrss/index",
+  "title": "Freshrss",
+  "description": "How to install Freshrss on Easypanel? 1-Click installation template for Freshrss on Easypanel",
+  "source": "@site/docs/04-templates/freshrss/index.md",
+  "sourceDirName": "04-templates/freshrss",
+  "slug": "/templates/freshrss/",
+  "permalink": "/docs/templates/freshrss/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/freshrss/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Freshrss",
+    "title": "Freshrss",
+    "description": "How to install Freshrss on Easypanel? 1-Click installation template for Freshrss on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Freescout",
+    "permalink": "/docs/templates/freescout/"
+  },
+  "next": {
+    "title": "Ghost",
+    "permalink": "/docs/templates/ghost/"
+  }
+}

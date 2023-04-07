@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/homeassistant/index",
+  "id": "templates/homeassistant/index",
+  "title": "Home Assistant",
+  "description": "How to install Home Assistant on Easypanel? 1-Click installation template for Home Assistant on Easypanel",
+  "source": "@site/docs/04-templates/homeassistant/index.md",
+  "sourceDirName": "04-templates/homeassistant",
+  "slug": "/templates/homeassistant/",
+  "permalink": "/docs/templates/homeassistant/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/homeassistant/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Home Assistant",
+    "title": "Home Assistant",
+    "description": "How to install Home Assistant on Easypanel? 1-Click installation template for Home Assistant on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Homarr",
+    "permalink": "/docs/templates/homarr/"
+  },
+  "next": {
+    "title": "HumHub",
+    "permalink": "/docs/templates/humhub/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/restreamer/index",
+  "id": "templates/restreamer/index",
+  "title": "Restreamer",
+  "description": "How to install Restreamer on Easypanel? 1-Click installation template for Restreamer on Easypanel",
+  "source": "@site/docs/04-templates/restreamer/index.md",
+  "sourceDirName": "04-templates/restreamer",
+  "slug": "/templates/restreamer/",
+  "permalink": "/docs/templates/restreamer/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/restreamer/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Restreamer",
+    "title": "Restreamer",
+    "description": "How to install Restreamer on Easypanel? 1-Click installation template for Restreamer on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Remmina",
+    "permalink": "/docs/templates/remmina/"
+  },
+  "next": {
+    "title": "Rocket.Chat",
+    "permalink": "/docs/templates/rocketchat/"
+  }
+}

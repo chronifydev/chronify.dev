@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/ntfy/index",
+  "id": "templates/ntfy/index",
+  "title": "Ntfy",
+  "description": "How to install Ntfy on Easypanel? 1-Click installation template for Ntfy on Easypanel",
+  "source": "@site/docs/04-templates/ntfy/index.md",
+  "sourceDirName": "04-templates/ntfy",
+  "slug": "/templates/ntfy/",
+  "permalink": "/docs/templates/ntfy/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/ntfy/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Ntfy",
+    "title": "Ntfy",
+    "description": "How to install Ntfy on Easypanel? 1-Click installation template for Ntfy on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Node-RED",
+    "permalink": "/docs/templates/nodered/"
+  },
+  "next": {
+    "title": "Nzbget",
+    "permalink": "/docs/templates/nzbget/"
+  }
+}

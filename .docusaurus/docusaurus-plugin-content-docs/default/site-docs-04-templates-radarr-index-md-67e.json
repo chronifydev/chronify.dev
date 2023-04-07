@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/radarr/index",
+  "id": "templates/radarr/index",
+  "title": "Radarr",
+  "description": "How to install Radarr on Easypanel? 1-Click installation template for Radarr on Easypanel",
+  "source": "@site/docs/04-templates/radarr/index.md",
+  "sourceDirName": "04-templates/radarr",
+  "slug": "/templates/radarr/",
+  "permalink": "/docs/templates/radarr/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/radarr/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Radarr",
+    "title": "Radarr",
+    "description": "How to install Radarr on Easypanel? 1-Click installation template for Radarr on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "RabbitMQ",
+    "permalink": "/docs/templates/rabbitmq/"
+  },
+  "next": {
+    "title": "Rallly",
+    "permalink": "/docs/templates/rallly/"
+  }
+}

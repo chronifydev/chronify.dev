@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/mealie/index",
+  "id": "templates/mealie/index",
+  "title": "Mealie",
+  "description": "How to install Mealie on Easypanel? 1-Click installation template for Mealie on Easypanel",
+  "source": "@site/docs/04-templates/mealie/index.md",
+  "sourceDirName": "04-templates/mealie",
+  "slug": "/templates/mealie/",
+  "permalink": "/docs/templates/mealie/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/mealie/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Mealie",
+    "title": "Mealie",
+    "description": "How to install Mealie on Easypanel? 1-Click installation template for Mealie on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Mattermost",
+    "permalink": "/docs/templates/mattermost/"
+  },
+  "next": {
+    "title": "Meilisearch",
+    "permalink": "/docs/templates/meilisearch/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/changelog-august-2022",
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/blog/2022-08-12-change-log/index.md",
+  "source": "@site/blog/2022-08-12-change-log/index.md",
+  "title": "Resource Monitoring, New Dashboard, and Other Improvements",
+  "description": "Happy Friday! I just wanted to give you a brief update on the latest features we’ve added to Easypanel.",
+  "date": "2022-08-12T00:00:00.000Z",
+  "formattedDate": "August 12, 2022",
+  "tags": [],
+  "readingTime": 1.585,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ignacio Van Droogenbroeck",
+      "title": "Founder of Chronify",
+      "url": "https://twitter.com/hectorivand",
+      "imageURL": "https://avatars.githubusercontent.com/u/64545348?s=400&u=390caa2c7a9ad21e357a178c10ae82ea769bd042&v=4",
+      "key": "deiucanta"
+    }
+  ],
+  "frontMatter": {
+    "slug": "changelog-august-2022",
+    "title": "Resource Monitoring, New Dashboard, and Other Improvements",
+    "authors": [
+      "deiucanta"
+    ]
+  },
+  "prevItem": {
+    "title": "Database backups are here!",
+    "permalink": "/blog/database-backups-are-here"
+  }
+}

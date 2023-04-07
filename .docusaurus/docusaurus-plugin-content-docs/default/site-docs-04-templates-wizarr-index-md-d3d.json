@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/wizarr/index",
+  "id": "templates/wizarr/index",
+  "title": "Wizarr",
+  "description": "How to install Wizarr on Easypanel? 1-Click installation template for Wizarr on Easypanel",
+  "source": "@site/docs/04-templates/wizarr/index.md",
+  "sourceDirName": "04-templates/wizarr",
+  "slug": "/templates/wizarr/",
+  "permalink": "/docs/templates/wizarr/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/wizarr/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Wizarr",
+    "title": "Wizarr",
+    "description": "How to install Wizarr on Easypanel? 1-Click installation template for Wizarr on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Windmill",
+    "permalink": "/docs/templates/windmill/"
+  },
+  "next": {
+    "title": "Wordpress",
+    "permalink": "/docs/templates/wordpress/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/mailcrab/index",
+  "id": "templates/mailcrab/index",
+  "title": "MailCrab",
+  "description": "How to install MailCrab on Easypanel? 1-Click installation template for MailCrab on Easypanel",
+  "source": "@site/docs/04-templates/mailcrab/index.md",
+  "sourceDirName": "04-templates/mailcrab",
+  "slug": "/templates/mailcrab/",
+  "permalink": "/docs/templates/mailcrab/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/mailcrab/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "MailCrab",
+    "title": "MailCrab",
+    "description": "How to install MailCrab on Easypanel? 1-Click installation template for MailCrab on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Lychee",
+    "permalink": "/docs/templates/lychee/"
+  },
+  "next": {
+    "title": "Mailhog",
+    "permalink": "/docs/templates/mailhog/"
+  }
+}

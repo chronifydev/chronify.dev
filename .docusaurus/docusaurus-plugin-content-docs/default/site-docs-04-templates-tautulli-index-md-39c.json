@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/tautulli/index",
+  "id": "templates/tautulli/index",
+  "title": "Tautuilli",
+  "description": "How to install Tautuilli on Easypanel? 1-Click installation template for Tautuilli on Easypanel",
+  "source": "@site/docs/04-templates/tautulli/index.md",
+  "sourceDirName": "04-templates/tautulli",
+  "slug": "/templates/tautulli/",
+  "permalink": "/docs/templates/tautulli/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/tautulli/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Tautuilli",
+    "title": "Tautuilli",
+    "description": "How to install Tautuilli on Easypanel? 1-Click installation template for Tautuilli on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Supertokens Core",
+    "permalink": "/docs/templates/supertokens-core/"
+  },
+  "next": {
+    "title": "Typebot",
+    "permalink": "/docs/templates/typebot/"
+  }
+}

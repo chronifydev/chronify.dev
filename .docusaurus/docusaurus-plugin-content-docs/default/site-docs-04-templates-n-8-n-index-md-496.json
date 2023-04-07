@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/n8n/index",
+  "id": "templates/n8n/index",
+  "title": "n8n",
+  "description": "How to install n8n on Easypanel? 1-Click installation template for n8n on Easypanel",
+  "source": "@site/docs/04-templates/n8n/index.md",
+  "sourceDirName": "04-templates/n8n",
+  "slug": "/templates/n8n/",
+  "permalink": "/docs/templates/n8n/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/n8n/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "n8n",
+    "title": "n8n",
+    "description": "How to install n8n on Easypanel? 1-Click installation template for n8n on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "MySQL Backup",
+    "permalink": "/docs/templates/mysql-backup/"
+  },
+  "next": {
+    "title": "Nextcloud",
+    "permalink": "/docs/templates/nextcloud/"
+  }
+}

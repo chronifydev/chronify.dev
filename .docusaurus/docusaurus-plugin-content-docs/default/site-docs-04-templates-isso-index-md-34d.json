@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/isso/index",
+  "id": "templates/isso/index",
+  "title": "Isso",
+  "description": "How to install Isso on Easypanel? 1-Click installation template for Isso on Easypanel",
+  "source": "@site/docs/04-templates/isso/index.md",
+  "sourceDirName": "04-templates/isso",
+  "slug": "/templates/isso/",
+  "permalink": "/docs/templates/isso/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/isso/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Isso",
+    "title": "Isso",
+    "description": "How to install Isso on Easypanel? 1-Click installation template for Isso on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "imgproxy",
+    "permalink": "/docs/templates/imgproxy/"
+  },
+  "next": {
+    "title": "Jellyfin",
+    "permalink": "/docs/templates/jellyfin/"
+  }
+}

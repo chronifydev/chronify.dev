@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/sonarr/index",
+  "id": "templates/sonarr/index",
+  "title": "Sonarr",
+  "description": "How to install Sonarr on Easypanel? 1-Click installation template for Sonarr on Easypanel",
+  "source": "@site/docs/04-templates/sonarr/index.md",
+  "sourceDirName": "04-templates/sonarr",
+  "slug": "/templates/sonarr/",
+  "permalink": "/docs/templates/sonarr/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/sonarr/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Sonarr",
+    "title": "Sonarr",
+    "description": "How to install Sonarr on Easypanel? 1-Click installation template for Sonarr on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Soketi",
+    "permalink": "/docs/templates/soketi/"
+  },
+  "next": {
+    "title": "Sshwifty",
+    "permalink": "/docs/templates/sshwifty/"
+  }
+}

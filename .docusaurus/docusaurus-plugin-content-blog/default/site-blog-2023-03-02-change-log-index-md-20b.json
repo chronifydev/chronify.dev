@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/database-backups-are-here",
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/blog/2023-03-02-change-log/index.md",
+  "source": "@site/blog/2023-03-02-change-log/index.md",
+  "title": "Database backups are here!",
+  "description": "We've got some big news to share - database backups are finally available in Easypanel! We've been working hard on this feature, and we couldn't be more excited to offer it to all of our awesome users.",
+  "date": "2023-03-02T00:00:00.000Z",
+  "formattedDate": "March 2, 2023",
+  "tags": [],
+  "readingTime": 1.925,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ignacio Van Droogenbroeck",
+      "title": "Founder of Chronify",
+      "url": "https://twitter.com/hectorivand",
+      "imageURL": "https://avatars.githubusercontent.com/u/64545348?s=400&u=390caa2c7a9ad21e357a178c10ae82ea769bd042&v=4",
+      "key": "deiucanta"
+    }
+  ],
+  "frontMatter": {
+    "slug": "database-backups-are-here",
+    "title": "Database backups are here!",
+    "authors": [
+      "deiucanta"
+    ]
+  }
+}

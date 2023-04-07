@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/domainmod/index",
+  "id": "templates/domainmod/index",
+  "title": "DomainMod",
+  "description": "How to install DomainMod on Easypanel? 1-Click installation template for DomainMod on Easypanel",
+  "source": "@site/docs/04-templates/domainmod/index.md",
+  "sourceDirName": "04-templates/domainmod",
+  "slug": "/templates/domainmod/",
+  "permalink": "/docs/templates/domainmod/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/domainmod/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "DomainMod",
+    "title": "DomainMod",
+    "description": "How to install DomainMod on Easypanel? 1-Click installation template for DomainMod on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Documize",
+    "permalink": "/docs/templates/documize/"
+  },
+  "next": {
+    "title": "Drone",
+    "permalink": "/docs/templates/drone/"
+  }
+}

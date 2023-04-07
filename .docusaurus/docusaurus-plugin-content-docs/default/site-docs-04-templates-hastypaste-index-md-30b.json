@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/hastypaste/index",
+  "id": "templates/hastypaste/index",
+  "title": "Hasty Paste",
+  "description": "How to install Hasty Paste on Easypanel? 1-Click installation template for Hasty Paste on Easypanel",
+  "source": "@site/docs/04-templates/hastypaste/index.md",
+  "sourceDirName": "04-templates/hastypaste",
+  "slug": "/templates/hastypaste/",
+  "permalink": "/docs/templates/hastypaste/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/hastypaste/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Hasty Paste",
+    "title": "Hasty Paste",
+    "description": "How to install Hasty Paste on Easypanel? 1-Click installation template for Hasty Paste on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Hastebin",
+    "permalink": "/docs/templates/hastebin/"
+  },
+  "next": {
+    "title": "HedgeDoc",
+    "permalink": "/docs/templates/hedgedoc/"
+  }
+}

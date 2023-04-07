@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/jellyfin/index",
+  "id": "templates/jellyfin/index",
+  "title": "Jellyfin",
+  "description": "How to install Jellyfin on Easypanel? 1-Click installation template for Jellyfin on Easypanel",
+  "source": "@site/docs/04-templates/jellyfin/index.md",
+  "sourceDirName": "04-templates/jellyfin",
+  "slug": "/templates/jellyfin/",
+  "permalink": "/docs/templates/jellyfin/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/jellyfin/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Jellyfin",
+    "title": "Jellyfin",
+    "description": "How to install Jellyfin on Easypanel? 1-Click installation template for Jellyfin on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Isso",
+    "permalink": "/docs/templates/isso/"
+  },
+  "next": {
+    "title": "Jellyseerr",
+    "permalink": "/docs/templates/jellyseerr/"
+  }
+}

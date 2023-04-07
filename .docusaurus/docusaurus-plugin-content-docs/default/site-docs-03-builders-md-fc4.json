@@ -1,0 +1,25 @@
+{
+  "unversionedId": "builders",
+  "id": "builders",
+  "title": "Builders",
+  "description": "Since Easypanel is powered by Docker, everything needs to be built as a Docker image. When you want to deploy your own apps, all you have is the source code. Easypanel provides several ways to build a Docker image from your source code.",
+  "source": "@site/docs/03-builders.md",
+  "sourceDirName": ".",
+  "slug": "/builders",
+  "permalink": "/docs/builders",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/03-builders.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Redis Service",
+    "permalink": "/docs/services/redis"
+  },
+  "next": {
+    "title": "Ackee",
+    "permalink": "/docs/templates/ackee/"
+  }
+}

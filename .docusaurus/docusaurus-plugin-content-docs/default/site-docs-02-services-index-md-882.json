@@ -1,0 +1,24 @@
+{
+  "unversionedId": "services/index",
+  "id": "services/index",
+  "title": "Services",
+  "description": "",
+  "source": "@site/docs/02-services/index.md",
+  "sourceDirName": "02-services",
+  "slug": "/services/",
+  "permalink": "/docs/services/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/02-services/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "App Service",
+    "permalink": "/docs/services/app"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/supertokens-core/index",
+  "id": "templates/supertokens-core/index",
+  "title": "Supertokens Core",
+  "description": "How to install Supertokens Core on Easypanel? 1-Click installation template for Supertokens Core on Easypanel",
+  "source": "@site/docs/04-templates/supertokens-core/index.md",
+  "sourceDirName": "04-templates/supertokens-core",
+  "slug": "/templates/supertokens-core/",
+  "permalink": "/docs/templates/supertokens-core/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/supertokens-core/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Supertokens Core",
+    "title": "Supertokens Core",
+    "description": "How to install Supertokens Core on Easypanel? 1-Click installation template for Supertokens Core on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "SuiteCRM",
+    "permalink": "/docs/templates/suitecrm/"
+  },
+  "next": {
+    "title": "Tautuilli",
+    "permalink": "/docs/templates/tautulli/"
+  }
+}

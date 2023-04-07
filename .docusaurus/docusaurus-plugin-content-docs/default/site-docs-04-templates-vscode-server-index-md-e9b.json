@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/vscode-server/index",
+  "id": "templates/vscode-server/index",
+  "title": "Visual Studio Code Server",
+  "description": "How to install Visual Studio Code Server on Easypanel? 1-Click installation template for Visual Studio Code Server on Easypanel",
+  "source": "@site/docs/04-templates/vscode-server/index.md",
+  "sourceDirName": "04-templates/vscode-server",
+  "slug": "/templates/vscode-server/",
+  "permalink": "/docs/templates/vscode-server/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/vscode-server/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Visual Studio Code Server",
+    "title": "Visual Studio Code Server",
+    "description": "How to install Visual Studio Code Server on Easypanel? 1-Click installation template for Visual Studio Code Server on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Verdaccio",
+    "permalink": "/docs/templates/verdaccio/"
+  },
+  "next": {
+    "title": "Wakapi",
+    "permalink": "/docs/templates/wakatime/"
+  }
+}

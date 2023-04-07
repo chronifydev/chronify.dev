@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/changelog-february-2023",
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/blog/2023-02-22-change-log/index.md",
+  "source": "@site/blog/2023-02-22-change-log/index.md",
+  "title": "120+ Templates, User Management, and Access Control",
+  "description": "Hey there!",
+  "date": "2023-02-22T00:00:00.000Z",
+  "formattedDate": "February 22, 2023",
+  "tags": [],
+  "readingTime": 1.115,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ignacio Van Droogenbroeck",
+      "title": "Founder of Chronify",
+      "url": "https://twitter.com/hectorivand",
+      "imageURL": "https://avatars.githubusercontent.com/u/64545348?s=400&u=390caa2c7a9ad21e357a178c10ae82ea769bd042&v=4",
+      "key": "deiucanta"
+    }
+  ],
+  "frontMatter": {
+    "slug": "changelog-february-2023",
+    "title": "120+ Templates, User Management, and Access Control",
+    "authors": [
+      "deiucanta"
+    ]
+  },
+  "prevItem": {
+    "title": "Database backups are here!",
+    "permalink": "/blog/database-backups-are-here"
+  },
+  "nextItem": {
+    "title": "Resource Monitoring, New Dashboard, and Other Improvements",
+    "permalink": "/blog/changelog-august-2022"
+  }
+}

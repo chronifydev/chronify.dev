@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/rabbitmq/index",
+  "id": "templates/rabbitmq/index",
+  "title": "RabbitMQ",
+  "description": "How to install RabbitMQ on Easypanel? 1-Click installation template for RabbitMQ on Easypanel",
+  "source": "@site/docs/04-templates/rabbitmq/index.md",
+  "sourceDirName": "04-templates/rabbitmq",
+  "slug": "/templates/rabbitmq/",
+  "permalink": "/docs/templates/rabbitmq/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/rabbitmq/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "RabbitMQ",
+    "title": "RabbitMQ",
+    "description": "How to install RabbitMQ on Easypanel? 1-Click installation template for RabbitMQ on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "PsiTransfer",
+    "permalink": "/docs/templates/psitransfer/"
+  },
+  "next": {
+    "title": "Radarr",
+    "permalink": "/docs/templates/radarr/"
+  }
+}

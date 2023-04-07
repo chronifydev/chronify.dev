@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/rocketchat/index",
+  "id": "templates/rocketchat/index",
+  "title": "Rocket.Chat",
+  "description": "How to install Rocket.Chat on Easypanel? 1-Click installation template for Rocket.Chat on Easypanel",
+  "source": "@site/docs/04-templates/rocketchat/index.md",
+  "sourceDirName": "04-templates/rocketchat",
+  "slug": "/templates/rocketchat/",
+  "permalink": "/docs/templates/rocketchat/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/rocketchat/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Rocket.Chat",
+    "title": "Rocket.Chat",
+    "description": "How to install Rocket.Chat on Easypanel? 1-Click installation template for Rocket.Chat on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Restreamer",
+    "permalink": "/docs/templates/restreamer/"
+  },
+  "next": {
+    "title": "Rotki",
+    "permalink": "/docs/templates/rotki/"
+  }
+}

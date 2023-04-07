@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/matomo/index",
+  "id": "templates/matomo/index",
+  "title": "Matomo",
+  "description": "How to install Matomo on Easypanel? 1-Click installation template for Matomo on Easypanel",
+  "source": "@site/docs/04-templates/matomo/index.md",
+  "sourceDirName": "04-templates/matomo",
+  "slug": "/templates/matomo/",
+  "permalink": "/docs/templates/matomo/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/matomo/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Matomo",
+    "title": "Matomo",
+    "description": "How to install Matomo on Easypanel? 1-Click installation template for Matomo on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Mailhog",
+    "permalink": "/docs/templates/mailhog/"
+  },
+  "next": {
+    "title": "Mattermost",
+    "permalink": "/docs/templates/mattermost/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/filebrowser/index",
+  "id": "templates/filebrowser/index",
+  "title": "Filebrowser",
+  "description": "How to install Filebrowser on Easypanel? 1-Click installation template for Filebrowser on Easypanel",
+  "source": "@site/docs/04-templates/filebrowser/index.md",
+  "sourceDirName": "04-templates/filebrowser",
+  "slug": "/templates/filebrowser/",
+  "permalink": "/docs/templates/filebrowser/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/filebrowser/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Filebrowser",
+    "title": "Filebrowser",
+    "description": "How to install Filebrowser on Easypanel? 1-Click installation template for Filebrowser on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Fider",
+    "permalink": "/docs/templates/fider/"
+  },
+  "next": {
+    "title": "Filezilla Client",
+    "permalink": "/docs/templates/filezilla/"
+  }
+}

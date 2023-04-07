@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/strapi/index",
+  "id": "templates/strapi/index",
+  "title": "Strapi",
+  "description": "How to install Strapi on Easypanel? 1-Click installation template for Strapi on Easypanel",
+  "source": "@site/docs/04-templates/strapi/index.md",
+  "sourceDirName": "04-templates/strapi",
+  "slug": "/templates/strapi/",
+  "permalink": "/docs/templates/strapi/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/strapi/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Strapi",
+    "title": "Strapi",
+    "description": "How to install Strapi on Easypanel? 1-Click installation template for Strapi on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Statping-ng",
+    "permalink": "/docs/templates/statping-ng/"
+  },
+  "next": {
+    "title": "SuiteCRM",
+    "permalink": "/docs/templates/suitecrm/"
+  }
+}

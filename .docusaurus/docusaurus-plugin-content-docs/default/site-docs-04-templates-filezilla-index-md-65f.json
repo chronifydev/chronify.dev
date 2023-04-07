@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/filezilla/index",
+  "id": "templates/filezilla/index",
+  "title": "Filezilla Client",
+  "description": "How to install Filezilla Client on Easypanel? 1-Click installation template for Filezilla Client on Easypanel",
+  "source": "@site/docs/04-templates/filezilla/index.md",
+  "sourceDirName": "04-templates/filezilla",
+  "slug": "/templates/filezilla/",
+  "permalink": "/docs/templates/filezilla/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/filezilla/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Filezilla Client",
+    "title": "Filezilla Client",
+    "description": "How to install Filezilla Client on Easypanel? 1-Click installation template for Filezilla Client on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Filebrowser",
+    "permalink": "/docs/templates/filebrowser/"
+  },
+  "next": {
+    "title": "Firefox",
+    "permalink": "/docs/templates/firefox/"
+  }
+}

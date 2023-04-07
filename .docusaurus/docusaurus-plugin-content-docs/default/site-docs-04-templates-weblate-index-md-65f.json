@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/weblate/index",
+  "id": "templates/weblate/index",
+  "title": "Weblate",
+  "description": "How to install Weblate on Easypanel? 1-Click installation template for Weblate on Easypanel",
+  "source": "@site/docs/04-templates/weblate/index.md",
+  "sourceDirName": "04-templates/weblate",
+  "slug": "/templates/weblate/",
+  "permalink": "/docs/templates/weblate/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/weblate/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Weblate",
+    "title": "Weblate",
+    "description": "How to install Weblate on Easypanel? 1-Click installation template for Weblate on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Wakapi",
+    "permalink": "/docs/templates/wakatime/"
+  },
+  "next": {
+    "title": "Wg-easy",
+    "permalink": "/docs/templates/wg-easy/"
+  }
+}

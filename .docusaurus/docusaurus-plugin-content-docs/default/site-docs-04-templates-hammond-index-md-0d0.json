@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/hammond/index",
+  "id": "templates/hammond/index",
+  "title": "Hammond",
+  "description": "How to install Hammond on Easypanel? 1-Click installation template for Hammond on Easypanel",
+  "source": "@site/docs/04-templates/hammond/index.md",
+  "sourceDirName": "04-templates/hammond",
+  "slug": "/templates/hammond/",
+  "permalink": "/docs/templates/hammond/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/hammond/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Hammond",
+    "title": "Hammond",
+    "description": "How to install Hammond on Easypanel? 1-Click installation template for Hammond on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Gotify",
+    "permalink": "/docs/templates/gotify/"
+  },
+  "next": {
+    "title": "Hastebin",
+    "permalink": "/docs/templates/hastebin/"
+  }
+}

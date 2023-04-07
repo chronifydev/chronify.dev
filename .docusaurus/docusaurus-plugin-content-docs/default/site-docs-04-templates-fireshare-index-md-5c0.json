@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/fireshare/index",
+  "id": "templates/fireshare/index",
+  "title": "Fireshare",
+  "description": "How to install Fireshare on Easypanel? 1-Click installation template for Fireshare on Easypanel",
+  "source": "@site/docs/04-templates/fireshare/index.md",
+  "sourceDirName": "04-templates/fireshare",
+  "slug": "/templates/fireshare/",
+  "permalink": "/docs/templates/fireshare/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/fireshare/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Fireshare",
+    "title": "Fireshare",
+    "description": "How to install Fireshare on Easypanel? 1-Click installation template for Fireshare on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Firefox",
+    "permalink": "/docs/templates/firefox/"
+  },
+  "next": {
+    "title": "Flame",
+    "permalink": "/docs/templates/flame/"
+  }
+}

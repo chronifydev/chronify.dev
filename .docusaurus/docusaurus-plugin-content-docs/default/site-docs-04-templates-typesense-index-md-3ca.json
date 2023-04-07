@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/typesense/index",
+  "id": "templates/typesense/index",
+  "title": "Typesense",
+  "description": "How to install Typesense on Easypanel? 1-Click installation template for Typesense on Easypanel",
+  "source": "@site/docs/04-templates/typesense/index.md",
+  "sourceDirName": "04-templates/typesense",
+  "slug": "/templates/typesense/",
+  "permalink": "/docs/templates/typesense/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/typesense/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Typesense",
+    "title": "Typesense",
+    "description": "How to install Typesense on Easypanel? 1-Click installation template for Typesense on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Typebot",
+    "permalink": "/docs/templates/typebot/"
+  },
+  "next": {
+    "title": "Umami",
+    "permalink": "/docs/templates/umami/"
+  }
+}

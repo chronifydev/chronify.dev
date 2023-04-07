@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/actualbudget/index",
+  "id": "templates/actualbudget/index",
+  "title": "Actual Budget",
+  "description": "How to install Actual Budget on Easypanel? 1-Click installation template for Actual Budget on Easypanel",
+  "source": "@site/docs/04-templates/actualbudget/index.md",
+  "sourceDirName": "04-templates/actualbudget",
+  "slug": "/templates/actualbudget/",
+  "permalink": "/docs/templates/actualbudget/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/actualbudget/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Actual Budget",
+    "title": "Actual Budget",
+    "description": "How to install Actual Budget on Easypanel? 1-Click installation template for Actual Budget on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Activepieces",
+    "permalink": "/docs/templates/activepieces/"
+  },
+  "next": {
+    "title": "Adminer",
+    "permalink": "/docs/templates/adminer/"
+  }
+}

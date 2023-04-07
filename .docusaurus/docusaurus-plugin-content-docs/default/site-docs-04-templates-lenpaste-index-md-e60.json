@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/lenpaste/index",
+  "id": "templates/lenpaste/index",
+  "title": "Lenpaste",
+  "description": "How to install Lenpaste on Easypanel? 1-Click installation template for Lenpaste on Easypanel",
+  "source": "@site/docs/04-templates/lenpaste/index.md",
+  "sourceDirName": "04-templates/lenpaste",
+  "slug": "/templates/lenpaste/",
+  "permalink": "/docs/templates/lenpaste/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/lenpaste/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Lenpaste",
+    "title": "Lenpaste",
+    "description": "How to install Lenpaste on Easypanel? 1-Click installation template for Lenpaste on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Lavalink",
+    "permalink": "/docs/templates/lavalink/"
+  },
+  "next": {
+    "title": "LibreOffice",
+    "permalink": "/docs/templates/libreoffice/"
+  }
+}

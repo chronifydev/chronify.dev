@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/registry/index",
+  "id": "templates/registry/index",
+  "title": "Registry",
+  "description": "How to install Registry on Easypanel? 1-Click installation template for Registry on Easypanel",
+  "source": "@site/docs/04-templates/registry/index.md",
+  "sourceDirName": "04-templates/registry",
+  "slug": "/templates/registry/",
+  "permalink": "/docs/templates/registry/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/registry/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Registry",
+    "title": "Registry",
+    "description": "How to install Registry on Easypanel? 1-Click installation template for Registry on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Rallly",
+    "permalink": "/docs/templates/rallly/"
+  },
+  "next": {
+    "title": "Remmina",
+    "permalink": "/docs/templates/remmina/"
+  }
+}

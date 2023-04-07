@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/plex/index",
+  "id": "templates/plex/index",
+  "title": "Plex",
+  "description": "How to install Plex on Easypanel? 1-Click installation template for Plex on Easypanel",
+  "source": "@site/docs/04-templates/plex/index.md",
+  "sourceDirName": "04-templates/plex",
+  "slug": "/templates/plex/",
+  "permalink": "/docs/templates/plex/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/plex/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Plex",
+    "title": "Plex",
+    "description": "How to install Plex on Easypanel? 1-Click installation template for Plex on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Plausible",
+    "permalink": "/docs/templates/plausible/"
+  },
+  "next": {
+    "title": "Ploi Roadmap",
+    "permalink": "/docs/templates/ploi-roadmap/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/activepieces/index",
+  "id": "templates/activepieces/index",
+  "title": "Activepieces",
+  "description": "How to install Activepieces on Easypanel? 1-Click installation template for Activepieces on Easypanel",
+  "source": "@site/docs/04-templates/activepieces/index.md",
+  "sourceDirName": "04-templates/activepieces",
+  "slug": "/templates/activepieces/",
+  "permalink": "/docs/templates/activepieces/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/activepieces/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Activepieces",
+    "title": "Activepieces",
+    "description": "How to install Activepieces on Easypanel? 1-Click installation template for Activepieces on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Ackee",
+    "permalink": "/docs/templates/ackee/"
+  },
+  "next": {
+    "title": "Actual Budget",
+    "permalink": "/docs/templates/actualbudget/"
+  }
+}

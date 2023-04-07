@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/statping-ng/index",
+  "id": "templates/statping-ng/index",
+  "title": "Statping-ng",
+  "description": "How to install Statping-ng on Easypanel? 1-Click installation template for Statping-ng on Easypanel",
+  "source": "@site/docs/04-templates/statping-ng/index.md",
+  "sourceDirName": "04-templates/statping-ng",
+  "slug": "/templates/statping-ng/",
+  "permalink": "/docs/templates/statping-ng/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/statping-ng/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Statping-ng",
+    "title": "Statping-ng",
+    "description": "How to install Statping-ng on Easypanel? 1-Click installation template for Statping-ng on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Sshwifty",
+    "permalink": "/docs/templates/sshwifty/"
+  },
+  "next": {
+    "title": "Strapi",
+    "permalink": "/docs/templates/strapi/"
+  }
+}

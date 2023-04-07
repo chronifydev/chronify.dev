@@ -1,0 +1,28 @@
+{
+  "unversionedId": "templates/chatwoot/index",
+  "id": "templates/chatwoot/index",
+  "title": "Chatwoot",
+  "description": "How to install Chatwoot on Easypanel? 1-Click installation template for Chatwoot on Easypanel",
+  "source": "@site/docs/04-templates/chatwoot/index.md",
+  "sourceDirName": "04-templates/chatwoot",
+  "slug": "/templates/chatwoot/",
+  "permalink": "/docs/templates/chatwoot/",
+  "draft": false,
+  "editUrl": "https://github.com/easypanel-io/website/tree/main/docs/04-templates/chatwoot/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Chatwoot",
+    "title": "Chatwoot",
+    "description": "How to install Chatwoot on Easypanel? 1-Click installation template for Chatwoot on Easypanel"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Change Detection",
+    "permalink": "/docs/templates/changedetection/"
+  },
+  "next": {
+    "title": "Clickhouse",
+    "permalink": "/docs/templates/clickhouse/"
+  }
+}
