@@ -13,8 +13,9 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/chronify-website-favicon-color.svg",
-  organizationName: "Chronify", // Usually your GitHub org/user name.
-  projectName: "website", // Usually your repo name.
+  organizationName: "chronifydev", // Usually your GitHub org/user name.
+  projectName: "chronify.dev", // Usually your repo name.
+  deploymentBranch: "main",
   stylesheets: [
     // "https://fonts.googleapis.com/css2?family=Inter:wght@583&display=block",
     // "https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=block",
