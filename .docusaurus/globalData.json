@@ -1,7 +1,9 @@
 {
   "docusaurus-plugin-google-gtag": {
     "default": {
-      "trackingID": "G-4JL0CD3631",
+      "trackingID": [
+        "G-4JL0CD3631"
+      ],
       "anonymizeIP": true,
       "id": "default"
     }

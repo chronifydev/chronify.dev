@@ -134,7 +134,7 @@ const config = {
                 label: "Discord",
                 href: "https://discord.gg/mfrhTeyb",
               },
-              {
+                            {
                 label: "Mastodon",
                 href: "https://mastodon.social/@chronify",
               },
